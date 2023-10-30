@@ -1,0 +1,12 @@
+Robot Framework Code for automating the Application submition through optimy.net
+Setup/Prequisities:
+1.Install Python: Install latest version of Python from https://www.python.org/downloads/
+ Run exe file after download
+2.Configure Python path in Environment variables
+3.Can also check Python version in command prompt using python --version to verify python download
+4.Install PyCharm or any IDE and add/craete new project in PyCharm
+5.Install libraries:robot framework with - pip install robotframework
+6.Install library:robot framework-selenium library - pip install robotframework-seleniumlibrary
+7.Install packages in PyCharm marketplace if not done through command prompt
+8.Create testcases with .robot extension
+9.To run project in command prompt-Change to current directory(cd name) and then run file using command---robot name.robot
